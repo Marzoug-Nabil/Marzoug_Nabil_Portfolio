@@ -1,5 +1,7 @@
 # Data Science and Machine Learning Portfolio
-
+<p align="center">
+<img src="my_pic.png" alt="Your Image" width="200" height="200">
+</p>
 Welcome to my data science and machine learning portfolio! This repository showcases my projects, demonstrating my skills and expertise in various areas of data analysis, machine learning, and data visualization.
 
 ## Table of Contents
