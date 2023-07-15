@@ -43,7 +43,8 @@ Welcome to my data science and machine learning portfolio! This repository showc
 ## Contact Information
 
 - Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [Marzoug Nabil](https://www.linkedin.com/in/marzoug-nabil-427103229/)
+- Github: [Marzoug-Nabil](https://github.com/Marzoug-Nabil)
 
 [Feel free to add any other contact information or social media profiles you want to share.]
 
