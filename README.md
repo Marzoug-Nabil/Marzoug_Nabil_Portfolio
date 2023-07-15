@@ -1,4 +1,4 @@
-# Marzoug Nabil
+# Hi, I'm Marzoug Nabil a Data Science and machine learning engineering student
 <p align="center">
 <img src="my_pic.png" alt="Your Image" width="200" height="200">
 </p>
@@ -62,7 +62,6 @@ learning model to classify skin lesions.
 
 ## Skills
 
-## Skills
 
 As a data science and machine learning enthusiast, I have developed proficiency in a wide range of skills, including:
 
