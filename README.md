@@ -29,15 +29,17 @@ As an avid learner, I keep up with the latest advancements in data science and m
 
 If you have any questions, project ideas, or opportunities for collaboration, feel free to reach out to me. I am always open to expanding my network and exploring new possibilities in the field of data science and machine learning.
 
-## Projects
+## Projects and experience
 
-### Project 1: [Project Name]
+### Assistant AI Researcher
+#### Moncton University-Canada
 
-- Description: Briefly describe the project and its goals.
-- Technologies Used: List the technologies, tools, and programming languages used in the project.
-- Key Features: Highlight the key features and contributions of the project.
-- Results and Insights: Summarize the results, insights, and conclusions obtained from the project.
-- Code: Provide a link to the project's code or notebooks.
+- Description: Led the analysis of the Cicdarknet-2020 dataset, resulting in a Research paper that describes the use of machine
+learning in cyber security in identifying and mitigating potential security threats.
+- Technologies Used: Python, Scikit-learn, Shap
+- Key Features: Ensemble learning methods, Random Forest, Xgboost, Lightgbm, Feature Selection
+- Results and Insights: The results of this work can be considered as the state of art as we overpass all of the previous works
+- Paper: Provide a link to the project's code or notebooks.
 
 ### Project 2: [Project Name]
 
