@@ -39,7 +39,7 @@ learning in cyber security in identifying and mitigating potential security thre
 - Technologies Used: Python, Scikit-learn, Shap
 - Key Features: Ensemble learning methods, Random Forest, Xgboost, Lightgbm, Feature Selection
 - Results and Insights: The results of this work can be considered as the state of art as we overpass all of the previous works
-- Paper: Provide a link to the project's code or notebooks.
+- Paper: Read our [research paper](research_paper.pdf)
 
 ### Project 2: [Project Name]
 
