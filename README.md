@@ -1,4 +1,4 @@
-# Hi, I'm Marzoug Nabil a Data Science and machine learning engineering student
+# Hi, I'm Marzoug Nabil a Data Science and Machine learning engineering student
 <p align="center">
 <img src="my_pic.png" alt="Your Image" width="200" height="200">
 </p>
