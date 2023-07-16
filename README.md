@@ -14,6 +14,7 @@ Welcome to my data science and machine learning portfolio! This repository showc
 - [About Me](#about-me)
 - [Projects and experience](#projects-and-experience)
 - [Skills](#skills)
+- [Completed Courses and Certifications](#completed-courses-and-certifications)
 - [Contact Information](#contact-information)
 - [License](#license)
 
@@ -43,7 +44,7 @@ learning in cyber security in identifying and mitigating potential security thre
 - Results and Insights: The results of this work can be considered as the state of art as we overpass all of the previous works
 - Paper: Read our [research paper](research_paper.pdf)
 
-### Data Analysis Project
+### Data Analysis Projects
 
 - Description: Actively engaged in numerous Data Analysis Projects, showcasing my expertise in
 extracting valuable insights from complex datasets. These projects have honed my skills in manipulating, cleaning,
@@ -51,14 +52,14 @@ and organizing data to uncover patterns, trends, and correlations.
 - Technologies Used: Python, numpy, pandas, Power BI, matplotlib, seaborn.
 - Notbooks: You can join all the projects in my github profile [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
-### Computer vision project
+### Computer vision projects
 
-- Description: Skin cancer is one of the most common types of cancer worldwide. Early detection of skin lesions
-can greatly improve patient outcomes. In this research, we use the Skin Cancer dataset of images to develop a deep
-learning model to classify skin lesions.
+- Description: Throughout my journey, I have actively engaged in numerous computer vision projects, each presenting unique challenges and opportunities. These projects have allowed me to explore and apply a diverse range of techniques and methodologies in the field of computer vision. From classical computer vision approaches like image filtering, edge detection, and feature extraction, to modern deep learning techniques such as convolutional neural networks (CNNs) and transfer learning, I have delved into a rich spectrum of methodologies.
+
+
 - Technologies: Python, Tensorflow, matplotlib, scikit-learn...
 - Key Features: Inceptionv3, Resnet
-- Notbook: Join the Notbook file [Here](https://github.com/Marzoug-Nabil/Skin-cancer-classification-Inceptionv3-Vs-Resnet-)
+- Notbook: Join the Notbooks files from [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
 [Add additional project sections as needed.]
 
@@ -88,6 +89,18 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 I continue to expand my skillset and stay up-to-date with the latest advancements in data science and machine learning to tackle challenging problems and drive impactful results.
 
+## Completed Courses and Certifications
+
+- [Exploratory Data Analysis for Machine Learning, IBM](https://www.coursera.org/account/accomplishments/verify/34LJCZUPVA6N)
+- [Foundations: Data, Data, Everywhere, Google](https://www.coursera.org/account/accomplishments/verify/6LEDVANJDJVD)
+- [Intro to Machine Learning, Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Computer Vision, Kaggle](https://www.kaggle.com/learn/certification/marzougnabil/computer-vision)
+- [The Elements of Data Science, Machine Learning Online Course, AWS Training Certification](https://www.amazon.com/courses/certificates/dd9d0fd6-271d-4dc2-b01c-b23031c67630)
+- [Machine Learning for Leaders — Machine Learning Online Course — AWS Training Certification](https://www.amazon.com/courses/certificates/928203ac-5bbf-4ae5-a864-6b121d324263)
+
+In my journey as a data science and machine learning enthusiast, I have completed these courses and obtained certifications from reputable platforms and organizations. These courses have equipped me with essential knowledge and skills in data analysis, machine learning, and computer vision.
+
+I am constantly seeking opportunities to apply my learnings to real-world projects and contribute to the data science community.
 
 ## Contact Information
 
