@@ -61,7 +61,6 @@ and organizing data to uncover patterns, trends, and correlations.
 - Key Features: Inceptionv3, Resnet
 - Notbook: Join the Notbooks files from [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
-[Add additional project sections as needed.]
 
 ## Skills
 
