@@ -50,7 +50,7 @@ learning in cyber security in identifying and mitigating potential security thre
 extracting valuable insights from complex datasets. These projects have honed my skills in manipulating, cleaning,
 and organizing data to uncover patterns, trends, and correlations.
 - Technologies Used: Python, numpy, pandas, Power BI, matplotlib, seaborn.
-- Notbooks: You can join all the projects in my github profile [Here](https://github.com/Marzoug-Nabil?tab=repositories)
+- Notebooks: You can join all the projects in my github profile [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
 ### Computer vision projects
 
@@ -59,7 +59,7 @@ and organizing data to uncover patterns, trends, and correlations.
 
 - Technologies: Python, Tensorflow, matplotlib, scikit-learn...
 - Key Features: Inceptionv3, Resnet
-- Notbook: Join the Notbooks files from [Here](https://github.com/Marzoug-Nabil?tab=repositories)
+- Notebook: Join the Notbooks files from [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
 
 ## Skills
