@@ -96,7 +96,8 @@ I continue to expand my skillset and stay up-to-date with the latest advancement
 - [Computer Vision, Kaggle](https://www.kaggle.com/learn/certification/marzougnabil/computer-vision)
 - [The Elements of Data Science, Machine Learning Online Course, AWS Training Certification](https://www.amazon.com/courses/certificates/dd9d0fd6-271d-4dc2-b01c-b23031c67630)
 - [Machine Learning for Leaders — Machine Learning Online Course — AWS Training Certification](https://www.amazon.com/courses/certificates/928203ac-5bbf-4ae5-a864-6b121d324263)
-
+- [ Time Series Analysis in R, Great Learning](https://olympus.mygreatlearning.com/courses/12392/certificate)
+- [Statistics for Data Science, Great Learning](https://olympus.mygreatlearning.com/courses/80409/certificate)
 In my journey as a data science and machine learning enthusiast, I have completed these courses and obtained certifications from reputable platforms and organizations. These courses have equipped me with essential knowledge and skills in data analysis, machine learning, and computer vision.
 
 I am constantly seeking opportunities to apply my learnings to real-world projects and contribute to the data science community.
