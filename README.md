@@ -61,6 +61,10 @@ and organizing data to uncover patterns, trends, and correlations.
 - Key Features: Inceptionv3, Resnet
 - Notebook: Join the Notbooks files from [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
+### Blogs 
+- [Data Science: Web scraping with python](https://medium.com/@nabilmarzoug49/data-science-web-scraping-with-python-b4b1d7655242)
+- [Mastering Decision Trees For classification : Unleashing Their Full Potential](https://medium.com/@nabilmarzoug49/mastering-decision-trees-for-classification-unleashing-their-full-potential-13c018cbbfb5)
+
 
 ## Skills
 
