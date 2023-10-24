@@ -48,7 +48,7 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 #### Assistant AI Researcher
 - 🏢 Moncton University, Canada
-- 🔍 Led the analysis of the Cicdarknet-2020 dataset, resulting in a [research paper](research_paper.pdf) that describes the use of machine learning in cybersecurity.
+- 🔍 Led the analysis of the Cicdarknet-2020 dataset, resulting in a [research paper](Research_paper.pdf) that describes the use of machine learning in cybersecurity.
 - 🚀 Technologies Used: Python, Scikit-learn, Shap, Ensemble learning methods
 - 📈 Key Features: Random Forest, Xgboost, Lightgbm, Feature Selection
 - 💡 Results and Insights: Overpassed previous works, state-of-the-art results
