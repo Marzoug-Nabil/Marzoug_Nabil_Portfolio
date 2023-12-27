@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="my_pic.png" alt="Marzoug Nabil" width="200" height="200">
-</p>
 
-# Hi, I'm Marzoug Nabil
-## Data Science and Machine Learning Enthusiast
+
+# Data Science and Machine Learning Enthusiast
 
 Welcome to my data science and machine learning portfolio! Here, I showcase my passion for leveraging data to gain insights and drive informed decision-making.
 
