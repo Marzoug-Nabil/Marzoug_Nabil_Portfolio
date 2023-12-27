@@ -29,7 +29,6 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 - **Machine Learning Frameworks:** TensorFlow, PyTorch, scikit-learn
 - **Data Preprocessing:** Feature Scaling, Data Normalization, Feature Engineering
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-- **Model Evaluation and Optimization:** Accuracy, Precision, Recall, F1 Score, Hyperparameter Tuning
 - **Version Control:** Git, GitHub
 - **SQL and Databases:** Data Querying, Data Manipulation
 - **Big Data and Distributed Computing:** Apache Hadoop, Apache Spark
@@ -43,22 +42,24 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 ### Projects and Experience
 
-#### Assistant AI Researcher
+#### Assistant AI Researcher Intern
 - 🏢 Moncton University, Canada
 - 🔍 Led the analysis of the Cicdarknet-2020 dataset, resulting in a [research paper](Research_paper.pdf) that describes the use of machine learning in cybersecurity.
 - 🚀 Technologies Used: Python, Scikit-learn, Shap, Ensemble learning methods
 - 📈 Key Features: Random Forest, Xgboost, Lightgbm, Feature Selection
 - 💡 Results and Insights: Overpassed previous works, state-of-the-art results
 
-#### Data Analysis Projects
-- Actively engaged in numerous Data Analysis Projects, showcasing my expertise in extracting valuable insights from complex datasets.
-- 🚀 Technologies Used: Python, NumPy, Pandas, Power BI, Matplotlib, Seaborn
-- 📚 You can find all the projects in my GitHub profile [Here](https://github.com/Marzoug-Nabil?tab=repositories)
 
-#### Computer Vision Projects
-- Actively engaged in numerous computer vision projects, each presenting unique challenges and opportunities.
-- 🚀 Technologies Used: Python, TensorFlow, Matplotlib, scikit-learn, Inceptionv3, ResNet
-- 📘 You can find the notebooks for these projects [Here](https://github.com/Marzoug-Nabil?tab=repositories)
+#### Machine learning Intern
+- 🏢 3d Smart facotry, Morocco
+- 🔍 Implemented a machine learning-based credit card fraud detection system using Python. Leveraged advanced classification algorithms and data preprocessing techniques to identify fraudulent transactions.
+- 🚀 Technologies Used: Python, Scikit-learn, Shap, Ensemble learning methods
+- 📈 Key Features: Random Forest, Xgboost, Lightgbm, Genetic Algorithms
+
+#### Publications
+- [LIDarknet-Experimenting the Power of Ensemble Learning in the Classification of Network traffic](https://easychair.org/publications/preprint/xCx5)
+
+
 
 #### Blogs
 - [Data Science: Web Scraping with Python](https://medium.com/@nabilmarzoug49/data-science-web-scraping-with-python-b4b1d7655242)
