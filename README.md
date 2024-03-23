@@ -77,7 +77,7 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 ## Contact Information
 
-- Email: nabilmarzoug49@gmail.com
+- Email: nabilmarzoug7@gmail.com
 - LinkedIn: [Marzoug Nabil](https://www.linkedin.com/in/marzoug-nabil-427103229/)
 - Github: [Marzoug-Nabil](https://github.com/Marzoug-Nabil)
 - Meduim: [Marzoug Nabil](https://medium.com/@nabilmarzoug49)
