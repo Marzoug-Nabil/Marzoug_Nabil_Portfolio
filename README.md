@@ -1,6 +1,6 @@
 
 
-# Data Science and Machine Learning Enthusiast
+# AI and Machine Learning Engineer
 
 Welcome to my data science and machine learning portfolio! Here, I showcase my passion for leveraging data to gain insights and drive informed decision-making.
 
