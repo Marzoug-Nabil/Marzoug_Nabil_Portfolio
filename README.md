@@ -4,7 +4,7 @@
 
 Welcome to my data science and machine learning portfolio! Here, I showcase my passion for leveraging data to gain insights and drive informed decision-making.
 
-📄 **Download My Resume from** [Here](My_resume.pdf).
+📄 **Download My Resume from** [Here](Curriculum_Vitae.pdf).
 
 ## Table of Contents
 - [About Me](#about-me)
