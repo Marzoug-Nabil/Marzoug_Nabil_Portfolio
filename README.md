@@ -1,5 +1,3 @@
-
-
 # AI and Machine Learning Engineer
 
 Welcome to my data science and machine learning portfolio! Here, I showcase my passion for leveraging data to gain insights and drive informed decision-making.
@@ -42,6 +40,13 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 ### Projects and Experience
 
+#### Researcher in Quantum Machine Learning - Prime Lab
+- 🏢 University of Moncton, Canada
+- 🔍 Worked on the project "Quantum Machine Learning for Cancer Detection," where I explored the integration of quantum computing with machine learning for the classification of colon polyps and segmentation of skin cancer.
+- 🚀 Technologies Used: Python, TensorFlow, PennyLane, Qiskit
+- 📈 Key Features: Quantum Neural Networks (QNNs), EfficientNet, Quantum Circuit Design
+- 💡 Results and Insights: Demonstrated the potential of quantum computing for enhanced accuracy in medical image classification. The research led to the development of two research papers that will be published soon.
+
 #### Assistant AI Researcher Intern
 - 🏢 Moncton University, Canada
 - 🔍 Led the analysis of the Cicdarknet-2020 dataset, resulting in a [research paper](Research_paper.pdf) that describes the use of machine learning in cybersecurity.
@@ -49,17 +54,14 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 - 📈 Key Features: Random Forest, Xgboost, Lightgbm, Feature Selection
 - 💡 Results and Insights: Overpassed previous works, state-of-the-art results
 
-
-#### Machine learning Intern
-- 🏢 3d Smart facotry, Morocco
+#### Machine Learning Intern
+- 🏢 3d Smart Factory, Morocco
 - 🔍 Implemented a machine learning-based credit card fraud detection system using Python. Leveraged advanced classification algorithms and data preprocessing techniques to identify fraudulent transactions.
 - 🚀 Technologies Used: Python, Scikit-learn, Shap, Ensemble learning methods
 - 📈 Key Features: Random Forest, Xgboost, Lightgbm, Genetic Algorithms
 
 #### Publications
-- [LIDarknet-Experimenting the Power of Ensemble Learning in the Classification of Network traffic](https://easychair.org/publications/preprint/xCx5)
-
-
+- [LIDarknet - Experimenting the Power of Ensemble Learning in the Classification of Network Traffic](https://easychair.org/publications/preprint/xCx5)
 
 #### Blogs
 - [Data Science: Web Scraping with Python](https://medium.com/@nabilmarzoug49/data-science-web-scraping-with-python-b4b1d7655242)
@@ -79,10 +81,8 @@ As a data science and machine learning enthusiast, I have developed proficiency 
 
 - Email: nabilmarzoug7@gmail.com
 - LinkedIn: [Marzoug Nabil](https://www.linkedin.com/in/marzoug-nabil-427103229/)
-- Github: [Marzoug-Nabil](https://github.com/Marzoug-Nabil)
-- Meduim: [Marzoug Nabil](https://medium.com/@nabilmarzoug49)
-
-
+- GitHub: [Marzoug-Nabil](https://github.com/Marzoug-Nabil)
+- Medium: [Marzoug Nabil](https://medium.com/@nabilmarzoug49)
 
 ## License
 
@@ -91,4 +91,3 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for any purpose. It grants you the freedom to adapt the project to your needs, incorporate it into other projects (open-source or proprietary), and even use it for commercial purposes, all with minimal restrictions.
 
 For more details, please see the [LICENSE](LICENSE) file.
-
